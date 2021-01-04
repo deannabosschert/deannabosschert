@@ -44,7 +44,8 @@ This page is a superduperWIP.
 🦄 It's such an overused mention in resumes, but perfectionism has proven itself to be very much present. It's a blessing and a burden, but becoming less perfectionistic whilst still having an extremely well eye for detail for when it's necessary is what I aim for right now. Best of both worlds!   
 🦄 I'm quite good at writing in Dutch; I rarely make spelling mistakes or grammar errors.   
 🦄 I'm always very open for feedback; I've learned so much this past year and it's mostly because I've just taken in so many advices from others   
-🦄 That being said; sometimes I'm kind of an open book and not afraid to talk about the things I find hard or that I feel like is important
+🦄 That being said; sometimes I'm kind of an open book and not afraid to talk about the things I find hard or that I feel like is important.         
+🦄 Also very open to learning new things. It may sound like a cliché but I actually like soaking up new information and getting better at things.     
 
 ## Education
 🦄 Received my Propedeuse of Communication and Multimedia Design in 2017   
