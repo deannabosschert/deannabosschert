@@ -32,6 +32,13 @@ This page is a superduperWIP.
 🦄 Webdesign   
 🦄 Photography
 
+## Socials
+🦄 Sometimes I tweet what's on my mind on [Twitter](https://twitter.com/tech_kech), or just share useful stuff
+🦄 Free images on [Unsplash](https://unsplash.com/@deannabosschert)
+🦄 Non-free images on [Flickr](https://www.flickr.com/people/169241155@N05/)
+🦄 I've written 3 articles as part of an assignment and posted on [Medium](https://medium.com/@deanna.bosschert)
+🦄 My [LinkedIn](https://nl.linkedin.com/in/deannabosschert) is a bit abandoned but I'm always up for new connections
+🦄 [Codepen](https://codepen.io/deannabosschert) is used for a mix of quick examples and well.. less quick examples
 
 <!--
 **deannabosschert/deannabosschert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
