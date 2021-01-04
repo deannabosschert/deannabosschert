@@ -42,6 +42,24 @@ This page is a superduperWIP.
 
 ## Skills
 
+## Education
+
+## Certificates
+🦄 In june 2016, I've obtained my Cambridge Advanced English Certificate.
+
+## Experience
+🦄 Teaching assistant at a high school; one year in Tech-Science for Sophomores ('brugklassen' in Dutch) and a year of Computer Science for Seniors (eindexamenklassen).
+🦄 Internship at dnata in which I focused on frontend and developed an e-learning programme.
+🦄 Student assistent at the courses 'ISGA Project/Internetstandaarden' and 'Project Passie' in the first year, and 'Frontend Development' in the second year of Communication and Multimedia Design 
+🦄 Lots of other student assistant work that's a bit irrelevant for now
+
+### Volunteering
+I've volunteered for De Duiventil as a bar team member for about 2 years.
+
+I also occasionally photographed at events for IAM Core (see [Flickr](https://www.flickr.com/people/169241155@N05/) for more) and generally liked to help out at events.
+
+#### IAM Core
+IAM Core study society deserves a special place on this resume; I've started out as a member of the 'study trip committee' in my first year, in which we organized a study trip to Lisbon. This was followed by a year in the 'game committee' in which we organized gaming nights. After these two years, I did another year as a board member and fulfilled the role of the Treasurer of the association.
 
 <!--
 **deannabosschert/deannabosschert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
