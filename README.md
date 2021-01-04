@@ -4,7 +4,7 @@ Web developer student from the Netherlands. Currently studying Communication and
 This page is a superduperWIP.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannabosschert" alt="a visualisation of my most used programming languages. Js comes first, HTML is a close second, SCSS is third, Vue on fourth place and CSS takes fifth place." />
+  <img align="center" style="border:2px solid purple;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannabosschert" alt="a visualisation of my most used programming languages. Js comes first, HTML is a close second, SCSS is third, Vue on fourth place and CSS takes fifth place." />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deannabosschert" alt="a visualisation of my github stats. It states that so far I've got 28 stars, made 1100 commits, 155 Pull Requests, 171 issues and have contributed to 21 projects." />
