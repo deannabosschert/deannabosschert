@@ -1,19 +1,24 @@
 ### Hi there 🙋🏼‍♀️
 
-Web developer student.
+Web developer student from the Netherlands. Currently studying Communication and Multimedia Design at the Amsterdam University of Applied Sciences. She/her.
+This page is a WIP.
 
 ### Languages
 🦄 HTML     
 🦄 CSS   
-🦄 JS   
+🦄 JS  
 
 #### Subthingknowledge
 🦄 NodeJS   
 🦄 SCSS   
 🦄 Vue   
 🦄 Eleventy (11ty)   
-🦄 Accessibility   
+🦄 Accessibility  
+
+### Other
 🦄 Webdesign   
+🦄 Photography
+
 
 <!--
 **deannabosschert/deannabosschert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
