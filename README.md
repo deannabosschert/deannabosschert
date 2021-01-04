@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 🙋🏼‍♀️
+
+Web developer student.
+
+### Languages
+🦄 HTML     
+🦄 CSS   
+🦄 JS   
+
+#### Subthingknowledge
+🦄 NodeJS   
+🦄 SCSS   
+🦄 Vue   
+🦄 Eleventy (11ty)   
+🦄 Accessibility   
+🦄 Webdesign   
 
 <!--
 **deannabosschert/deannabosschert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
