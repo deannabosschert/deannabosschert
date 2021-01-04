@@ -7,8 +7,14 @@ This page is a superduperWIP.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannabosschert" alt="a visualisation of my most used programming languages. Js comes first, HTML is a close second, SCSS is third, Vue on fourth place and CSS takes fifth place." />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deannabosschert" alt="a visualisation of my github stats. It states that so far I've got 28 stars, made 1100 commits, 155 Pull Requests, 171 issues and have contributed to 21 projects." />
+</a>
+
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannabosschert&layout=compact" alt="a visualisation of my most used programming languages. Js comes first, HTML is a close second, SCSS is third, Vue on fourth place and CSS takes fifth place." />
 </a>
+-->
+
 
 ### Languages
 🦄 HTML     
