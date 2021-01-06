@@ -16,20 +16,44 @@ This page is a superduperWIP.
 -->
 
 
-### Languages
-🦄 HTML     
-🦄 CSS   
-🦄 JS  
+## Languages
+<table style="width:600px;
+		height:100px;
+		border:0px solid #C0C0C0;
+		border-collapse:separate;">
+  <thead>
+    <tr>
+      <th style="background:#ece0ec;"><b>HTML</b></th>
+      <th style="background:#ece0ec;"><b>CSS</b></th>
+      <th style="background:#ece0ec;"><b>JavaScript</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background:#ece0ec;">Semantics</td>
+      <td style="background:#ece0ec;">SCSS</td>
+      <td style="background:#ece0ec;">NodeJS</td>
+    </tr>
+      <tr>
+      <td style="background:#ece0ec;">Accessibility</td>
+      <td style="background:#ece0ec;">SMACCS</td>
+      <td style="background:#ece0ec;">Vue</td>
+    </tr>
+       <tr>
+      <td style="background:#ece0ec;">Progressive Enhancement</td>
+      <td style="background:#ece0ec;"></td>
+      <td style="background:#ece0ec;">Eleventy</td>
+    </tr>
+	</tbody>
+</table>
 
-#### Subthingknowledge
 🦄 NodeJS   
 🦄 SCSS   
 🦄 Vue   
 🦄 Eleventy (11ty)   
-🦄 Accessibility  
 
 ### Other
-🦄 Webdesign   
+🦄 Webdesign     
 🦄 Photography   
 
 ## Socials
