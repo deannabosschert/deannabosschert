@@ -1,4 +1,4 @@
-### Hi there 🙋🏼‍♀️
+### Hi there, and welcome to my resume 🙋🏼‍♀️
 
 I'm Deanna, a front-end webdeveloper student from the Netherlands. Currently in my last year of studying Communication and Multimedia Design at the Amsterdam University of Applied Sciences. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub.
 That's a lot of info that I'd normally just put on a print-like CV, but I thought I'd be nice to have this info collected in one place along with my projects' source code, and portfolio site. 
