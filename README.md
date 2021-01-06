@@ -80,7 +80,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - 2020-now: Student assistent at the courses 'ISGA Project/Internetstandaarden' and 'Project Passie' in the first year of Communication and Multimedia Design, and 'Frontend Development' in the second year. Mostly personal assistance via video calls.
 - 2017-2019: Teaching assistant at a high school; one year in Tech-Science for Sophomores ('brugklassen' in Dutch) and one year of Computer Science for Seniors    (eindexamenklassen) at the  Da Vinci college (HAVO/VWO).   
 - 2017 (3 months): Internship at dnata in which I focused on frontend and developed an e-learning programme.   
-- 2016-now: Lots of other student assistant work but that's a bit irrelevant for now   
+- 2016-now: Lots of other student assistant work, and pre-'16 side jobs but that's a bit irrelevant for now   
 
 ### Volunteering
 - I've volunteered for De Duiventil society as a bar team member for about 2 years.   
