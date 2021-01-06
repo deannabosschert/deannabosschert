@@ -52,7 +52,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 	</tbody>
 </table> 
 
-### Other
+### Other knowledge and experience-with
 🦄 Webdesign  
 🦄 Design Ethics      
 🦄 Photography   
