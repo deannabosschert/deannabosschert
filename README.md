@@ -51,7 +51,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 ### Other
 🦄 Webdesign  
-🦄 Design Ethics
+🦄 Design Ethics      
 🦄 Photography   
 
 ## Socials
