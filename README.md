@@ -55,19 +55,19 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 🦄 Photography   
 
 ## Socials
--  Sometimes I tweet what's on my mind on [Twitter](https://twitter.com/tech_kech), or just share useful or important stuff   
+-  Sometimes I tweet what's on my mind on [Twitter](https://twitter.com/tech_kech), or just share useful things or stuff that I find important.   
 -  Free images on [Unsplash](https://unsplash.com/@deannabosschert)   
 -  Non-free images on [Flickr](https://www.flickr.com/people/169241155@N05/)   
 -  I've written some articles as part of an assignment and posted on [Medium](https://medium.com/@deanna.bosschert)   
 -  My [LinkedIn](https://nl.linkedin.com/in/deannabosschert) is a bit abandoned but I'm always up for new connections   
--  [Codepen](https://codepen.io/deannabosschert) is used for a mix of quick examples and well.. less quick examples   
+-  My [Codepen](https://codepen.io/deannabosschert) is used for a mix of quick examples and well.. less quick examples   
 
 ## Skills
 - It's such an overused mention in resumes, but perfectionism has proven itself to be very much present. It's a blessing and a burden, but becoming less perfectionistic whilst still having an extremely well eye for detail for when it's necessary is what I aim for right now. Best of both worlds!   
 - I'm quite good at writing in Dutch; I rarely make spelling mistakes or grammar errors.   
 - I'm always very open for feedback; I've learned so much this past year and it's mostly because I've just taken in so many advices from others   
-- That being said; sometimes I'm kind of an open book and not afraid to talk about the things I find hard or that I feel like is important.         
-- Also very open to learning new things. It may sound like a cliché but I actually like soaking up new information and getting better at things.     
+- That being said; sometimes I'm kind of an open book and not afraid to talk about the things I find hard or that I feel like is important. It's the best and quickest way to get better at things, right?        
+- Also very open to learning new things. It may sound like a cliché but I actually like soaking up new information and gaining skills.     
 
 ## Education
 - Received my Propedeuse of Communication and Multimedia Design in 2017   
@@ -77,14 +77,13 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - In june 2016, I've obtained my Cambridge Advanced English Certificate.   
 
 ## Experience
-- Teaching assistant at a high school; one year in Tech-Science for Sophomores ('brugklassen' in Dutch) and a year of Computer Science for Seniors    (eindexamenklassen) at the  Da Vinci college (HAVO/VWO).   
-- Internship at dnata in which I focused on frontend and developed an e-learning programme.   
-- Student assistent at the courses 'ISGA Project/Internetstandaarden' and 'Project Passie' in the first year, and 'Frontend Development' in the second year of Communication and Multimedia Design    
-- Lots of other student assistant work but that's a bit irrelevant for now   
+- 2020-now: Student assistent at the courses 'ISGA Project/Internetstandaarden' and 'Project Passie' in the first year of Communication and Multimedia Design, and 'Frontend Development' in the second year. Mostly personal assistance via video calls.
+- 2017-2019: Teaching assistant at a high school; one year in Tech-Science for Sophomores ('brugklassen' in Dutch) and one year of Computer Science for Seniors    (eindexamenklassen) at the  Da Vinci college (HAVO/VWO).   
+- 2017 (3 months): Internship at dnata in which I focused on frontend and developed an e-learning programme.   
+- 2016-now: Lots of other student assistant work but that's a bit irrelevant for now   
 
 ### Volunteering
 - I've volunteered for De Duiventil society as a bar team member for about 2 years.   
-
 - I also occasionally photographed at events for IAM Core (see [Flickr](https://www.flickr.com/people/169241155@N05/) for more) and generally liked to help out at events.   
 
 #### IAM Core
