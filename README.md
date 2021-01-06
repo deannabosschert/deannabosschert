@@ -1,6 +1,6 @@
 ### Hi there, and welcome to my resume 🙋🏼‍♀️
 
-I'm Deanna, a front-end webdeveloper student from the Netherlands. Currently in my last year of studying Communication and Multimedia Design at the Amsterdam University of Applied Sciences. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub.
+I'm Deanna, a front-end webdeveloper student from the Netherlands. Currently in my last year of studying Communication and Multimedia Design at the Amsterdam University of Applied Sciences. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
 That's a lot of info that I'd normally just put on a print-like CV, but I thought I'd be nice to have this info collected in one place along with my projects' source code, and portfolio site. 
 
 Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my recent work.
@@ -30,7 +30,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
     <tr>
       <th style="background:#ece0ec;"><b>HTML</b></th>
       <th style="background:#ece0ec;"><b>CSS</b></th>
-      <th style="background:#ece0ec;"><b>JavaScript</b></th>
+      <th style="background:#ece0ec;"><b>JavaScript (ES6)</b></th>
     </tr>
   </thead>
   <tbody>
@@ -41,7 +41,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
     </tr>
       <tr>
       <td style="background:#ece0ec;">Accessibility</td>
-      <td style="background:#ece0ec;">SMACCS</td>
+      <td style="background:#ece0ec;"></td>
       <td style="background:#ece0ec;">Vue</td>
     </tr>
        <tr>
