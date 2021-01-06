@@ -73,7 +73,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Received my Propedeuse of Communication and Multimedia Design in 2017   
 - Graduated with a pre-university degree at the Jan van Egmond College in 2016.   
 
-## Certificates
+### Certificates
 - In june 2016, I've obtained my Cambridge Advanced English Certificate.   
 
 ## Experience
@@ -84,7 +84,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 ### Volunteering
 - I've volunteered for De Duiventil society as a bar team member for about 2 years.   
-- I also occasionally photographed at events for IAM Core (see [Flickr](https://www.flickr.com/people/169241155@N05/) for more) and generally liked to help out at events.   
+- I also occasionally photographed at events for IAM Core (see [Facebook](https://www.facebook.com/IAMCoreCMDA/photos/?tab=album&ref=) for in which albums I'm tagged as photographer, for more) and generally liked to help out at events.   
 
 #### IAM Core
 IAM Core study society deserves a special place on this resume; I've started out as a member of the 'study trip committee' in my first year, in which we organized a study trip to Lisbon. This was followed by a year in the 'game committee' in which we organized gaming nights. After these two years, I did another year as a board member and fulfilled the role of the Treasurer of the association.   
