@@ -22,7 +22,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 
 ## Languages
-<table style="width:600px;
+<!-- <table style="width:600px;
 		height:100px;
 		border:0px solid #C0C0C0;
 		border-collapse:separate;">
@@ -50,7 +50,35 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
       <td style="background:#ece0ec;">Eleventy</td>
     </tr>
 	</tbody>
-</table> 
+</table> -->
+### HTML5
+- Focused on semantics
+
+### CSS3
+- SCCS      
+- Comfortable working with BEM or SMACCS methodology    
+
+
+### Javascript (ES6)
+- Node.js    
+- Vue.js    
+
+- Server-side scripting    
+- Client-size scripting    
+- Functional programming    
+
+- Static site generating (Eleventy)    
+- Using template languages like EJS or Nunjucks    
+
+#### Integrating experience
+- REST API's    
+- Headless CMS (Storyblok)    
+- Familiar with Storybook.js      
+
+### Development tools
+- Git    
+- GitHub    
+- CLI    
 
 ### Other knowledge and experience-with
 🦄 Webdesign  
