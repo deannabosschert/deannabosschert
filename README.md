@@ -87,7 +87,8 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Git    
 - GitHub    
 - CLI    
-- Collaborating in teams using GitHub (e.g. Project Boards, Issues, Pull Requests, Code reviews etc.)     
+- Collaborating in teams using GitHub (e.g. Project Boards, Issues, Pull Requests, code reviews, branches etc.)    
+- Use of coding guidelines    
 - Netlify deploy     
 - Heroku  deploy   
 
