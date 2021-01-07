@@ -78,15 +78,18 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 #### Integrating experience
 - REST API's    
-- Headless CMS (Storyblok)    
+- Headless CMS (Storyblok)  
+- Databases (MongoDB, SQL)
 - NPM packages    
 - Familiar with Storybook.js      
 
 ### Development tools
 - Git    
 - GitHub    
-- Collaborating using GitHub (e.g. Project Boards, Issues, Pull Requests, Code reviews etc.)     
 - CLI    
+- Collaborating in teams using GitHub (e.g. Project Boards, Issues, Pull Requests, Code reviews etc.)     
+- Netlify deploy     
+- Heroku  deploy   
 
 ### Other knowledge and experience-with
 🦄 Markdown  
