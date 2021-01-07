@@ -89,6 +89,8 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - CLI    
 
 ### Other knowledge and experience-with
+🦄 Markdown  
+🦄 Writing documentation  
 🦄 Web Design  
 🦄 User-centered Design and concepting  
 🦄 Datavisualization      
