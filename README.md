@@ -65,10 +65,13 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Node.js    
 - Vue.js    
 
+----
+
 - Server-side scripting    
 - Client-size scripting    
 - Data manipulation + rendering     
 - Functional programming principles   
+---
 
 - Static site generating (Eleventy)    
 - Using template languages like EJS or Nunjucks    
