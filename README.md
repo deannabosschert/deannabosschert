@@ -53,7 +53,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 </table> -->
 ### HTML5
 - Focus on semantics    
-- Following Progressive Enhancement standards      
+- Applying Progressive Enhancement principles      
 - Accessibility knowledge (a11y guidelines)   
 
 ### CSS3
@@ -67,7 +67,8 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 - Server-side scripting    
 - Client-size scripting    
-- Functional programming    
+- Data manipulation + rendering     
+- Functional programming principles   
 
 - Static site generating (Eleventy)    
 - Using template languages like EJS or Nunjucks    
@@ -75,6 +76,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 #### Integrating experience
 - REST API's    
 - Headless CMS (Storyblok)    
+- NPM packages    
 - Familiar with Storybook.js      
 
 ### Development tools
