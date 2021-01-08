@@ -119,7 +119,6 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - I'm always very **open for feedback**; I've learned so much this past year and it's mostly because I've just taken in so many advices from others   
 - That being said; sometimes I'm kind of an open book and **not afraid to talk about the things I find hard or that I feel like is important**. It's the best and quickest way to get better at things, right?        
 - Also **very open to learning new things**. It may sound like a cliché but I actually like soaking up new information and gaining skills.     
-- Working 
 
 ## 🏫  Education
 - Received my **Propedeuse** of Communication and Multimedia Design in 2017   
