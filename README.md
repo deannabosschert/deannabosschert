@@ -92,7 +92,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Netlify deploy     
 - Heroku  deploy   
 
-### Other knowledge and experience-with
+### Other knowledge + experience
 🦄 Markdown  
 🦄 Writing documentation  
 🦄 Web Design  
