@@ -1,6 +1,6 @@
 ### Hi there, and welcome to my resume 🙋🏼‍♀️ 
 
-I'm Deanna, a front-end webdeveloper student from the Netherlands. Currently in my graduation phase of Communication and Multimedia Design at the Amsterdam University of Applied Sciences. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
+I'm Deanna, a front-end webdeveloper student from the Netherlands. Currently in my graduation phase of Communication and Multimedia Design at the Amsterdam University of Applied Sciences and almost finished with my Creative Developer-intership at Active Collective this semester. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
 That's a lot of info that I'd normally just put on a print-like CV, but I thought I'd be nice to have this info collected in one place along with my projects' source code, and portfolio site. 
 
 Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my recent work.  (**note: not up-top-date** ~~and quickly hacked together~~ ) 
