@@ -1,9 +1,9 @@
 ### Hi there, and welcome to my resume 🙋🏼‍♀️ 
 
-I'm Deanna, a front-end webdeveloper student from the Netherlands. Currently in my last year of studying Communication and Multimedia Design at the Amsterdam University of Applied Sciences. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
+I'm Deanna, a front-end webdeveloper student from the Netherlands. Currently in my graduation phase of Communication and Multimedia Design at the Amsterdam University of Applied Sciences. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
 That's a lot of info that I'd normally just put on a print-like CV, but I thought I'd be nice to have this info collected in one place along with my projects' source code, and portfolio site. 
 
-Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my recent work.
+Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my recent work.  (**note: not up-top-date** ~~and quickly hacked together~~ ) 
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats/">
   <img align="center" style="border:2px solid purple;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannabosschert" alt="a visualisation of my most used programming languages. Js comes first, HTML is a close second, SCSS is third, Vue on fourth place and CSS takes fifth place." />
@@ -59,28 +59,35 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ### CSS3
 - SCCS      
 - Comfortable working with BEM or SMACCS methodology    
+- Comfortable working with InuitCSS system    
 
 
 ### Javascript (ES6)
 - Node.js    
-- Vue.js    
+- Vue.js   
+- Nuxt.js 
 
 ----
 
 - Server-side scripting    
-- Client-size scripting    
+- Client-side scripting    
 - Data manipulation + rendering     
 - Functional programming principles   
 ---
 
 - Static site generating (Eleventy)    
-- Using template languages like EJS or Nunjucks    
+- Using template languages like EJS, Liquid, Handlebars or Nunjucks    
+
+### PHP
+- Experience with WordPress back-end in PHP
 
 #### Integrating experience
 - REST API's    
 - Headless CMS (Storyblok)  
+- WordPress (including custom themes, plugins etc)
 - Databases (MongoDB, SQL)
 - NPM packages    
+- Sockets     
 - Familiar with Storybook.js      
 
 ### Development tools
@@ -90,9 +97,10 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Collaborating in teams using GitHub (e.g. Project Boards, Issues, Pull Requests, code reviews, branches etc.)    
 - Use of coding guidelines    
 - Netlify deploy     
-- Heroku  deploy   
+- Heroku deploy   
 
 ### Other knowledge + experience
+🦄 Performance enhancements (following Lighthouse standards)  
 🦄 Markdown  
 🦄 Writing documentation  
 🦄 Web Design  
@@ -101,7 +109,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 🦄 Research  
 🦄 Design Ethics      
 🦄 Photography   
-🦄 Collaboration tools like Trello, Miro, Slack, Teams, Drive etc.        
+🦄 Collaboration tools like Trello, Miro, Productive, Slack, Teams, Drive etc.        
 
 
 ## 💬  Socials
@@ -128,6 +136,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - In june 2016, I've obtained my **Cambridge Advanced English Certificate.**   
 
 ## 📈  Experience
+- 2021 feb- now: **Internship Creative Developer** at Active Collective (Digital Design Agency)
 - 2020-now: **Student assistent at the mostly tech-related courses** 'ISGA Project/Internetstandaarden' and 'Project Passie' in the first year of Communication and Multimedia Design, and 'Frontend Development' in the second year. Mostly personal assistance via video calls.
 - 2017-2019: **Teaching assistant at a high school**; one year in **Tech-Science** for Sophomores ('brugklassen' in Dutch) and one year of **Computer Science** for Seniors    (eindexamenklassen) at the  Da Vinci college (HAVO/VWO).   
 - 2017 (3 months): **Internship** at dnata in which I focused on **frontend** and developed an e-learning programme.   
