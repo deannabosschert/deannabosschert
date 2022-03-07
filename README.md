@@ -131,6 +131,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Also **very open to learning new things**. It may sound like a cliché but I actually like soaking up new information and gaining skills.     
 
 ## 🏫  Education
+- Graduated with a **bachelor's degree** from Communication and Multimedia Design in 2022, **thesis graded with a 10 (A++)**.     
 - Received my **Propedeuse** of Communication and Multimedia Design in 2017   
 - Graduated with a **pre-university degree** at the Jan van Egmond College in 2016.   
 
@@ -138,7 +139,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - In june 2016, I've obtained my **Cambridge Advanced English Certificate.**   
 
 ## 📈  Experience
-- 2021 aug-now: **Graduation project** at Active Collective, focused on developer efficiency enhancement.
+- 2021 aug-feb 2022: **Graduation project** at Active Collective, focused on developer efficiency enhancement.
 - 2021 feb-juli: **Internship Creative Developer** at Active Collective (Digital Design Agency).
 - 2020-now: **Student assistent at the mostly tech-related courses** 'ISGA Project', 'Internetstandaarden' and 'Project Passie' in the first year of Communication and Multimedia Design, and 'Frontend Development' in the second year. Mostly personal assistance via video calls.
 - 2017-2019: **Teaching assistant at a high school**; one year in **Tech-Science** for Sophomores ('brugklassen' in Dutch) and one year of **Computer Science** for Seniors    (eindexamenklassen) at the  Da Vinci college (HAVO/VWO).   
