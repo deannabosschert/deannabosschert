@@ -23,10 +23,57 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 ---
 
-         
+
+<br>
+<!-- only using this br boi bc markdown won't work with me.. -->
+        
+     
+
+# 🏫  Education
+- 2022: Graduated with a **bachelor's degree** from Communication and Multimedia Design, **thesis graded with a 10 (A++)**.     
+- 2017: Received my **Propedeuse** of Communication and Multimedia Design.   
+- 2016: Graduated with a **pre-university degree** at the Jan van Egmond College.   
+
+## 📋️  Certificates
+- 2016: Obtained my **Cambridge Advanced English Certificate.**   
+
+
+<br>
+
+
+# 📈  Experience in tech
+- 2022+ **Teaching assistant** at the **Amsterdam University of Applied Sciences** for tech-focused courses.   
+- 2021 aug-feb 2022: **Graduation project** at Active Collective, focused on developer efficiency enhancement.
+- 2021 feb-juli: **Internship Creative Developer** at Active Collective (Digital Design Agency).
+- 2020-2022: **Student assistent at the mostly tech-related courses** 'ISGA Project', 'Internetstandaarden', 'Project Passie' and an 'introduction course HTML/CSS' in the first year of Communication and Multimedia Design, and 'Frontend Development' + 'Project Tech' in the second year. Mostly personal assistance via video calls and making lots of example code for the students.    
+- 2017-2019: **Teaching assistant at a high school**; one year in **Tech-Science** for Sophomores ('brugklassen' in Dutch) and one year of **Computer Science** for Seniors    (eindexamenklassen) at the  Da Vinci college (HAVO/VWO).   
+- 2017 (3 months): **Internship** at dnata in which I focused on **frontend** and developed an e-learning programme.   
+- 2016-2022: Lots of other student assistant work, and pre-'16 side jobs in retail and restaurants but that's a bit irrelevant for now   
+
+## Volunteering
+- I've volunteered for De Duiventil society as a **bar team member** for about 2 years.   
+- I also occasionally **photographed** at events for IAM Core (see [Facebook](https://www.facebook.com/IAMCoreCMDA/photos/?tab=album&ref=) for in which albums I'm tagged as photographer, for more) and generally liked to help out at events.   
+
+### IAM Core
+IAM Core study society deserves a special place on this resume; 
+- 2017: I've started out as a member of the **'study trip committee'** in my first year, in which we organized a study trip to Lisbon.      
+- 2018: This was followed by a year in the **'game committee'** in which we organized gaming nights.      
+- 2019: After these first two years, I did another year of participating and fulfilled the role of the **Treasurer of the association as board member**, in which I also organized field trips, networking events, a study trip to Warsaw, our introduction weekend for first-year students and many more.      
+
+
+
+<br>
+
+
+# ⚙️  Skills
+- It's such an overused mention in resumes, but perfectionism has proven itself to be very much present. It's a blessing and a burden, but becoming less **perfectionistic** whilst still having an extremely well **eye for detail** for when it's necessary is what I aim for right now. Best of both worlds!   
+- I'm quite good at **writing in Dutch**; I rarely make spelling mistakes or grammar errors.   
+- I'm always very **open for feedback**; I've learned so much this past year and it's mostly because I've just taken in so many advices from others   
+- That being said; sometimes I'm kind of an open book and **not afraid to talk about the things I find hard or that I feel like is important**. It's the best and quickest way to get better at things, right?        
+- Also **very open to learning new things**. It may sound like a cliché but I actually like soaking up new information and gaining skills.     
+
        
 <br>
-<!-- only using this bc markdown won't work with me.. -->
          
 	 
 
@@ -312,41 +359,3 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
   
 <br>
 
-
-# ⚙️  Skills
-- It's such an overused mention in resumes, but perfectionism has proven itself to be very much present. It's a blessing and a burden, but becoming less **perfectionistic** whilst still having an extremely well **eye for detail** for when it's necessary is what I aim for right now. Best of both worlds!   
-- I'm quite good at **writing in Dutch**; I rarely make spelling mistakes or grammar errors.   
-- I'm always very **open for feedback**; I've learned so much this past year and it's mostly because I've just taken in so many advices from others   
-- That being said; sometimes I'm kind of an open book and **not afraid to talk about the things I find hard or that I feel like is important**. It's the best and quickest way to get better at things, right?        
-- Also **very open to learning new things**. It may sound like a cliché but I actually like soaking up new information and gaining skills.     
-
-<br>
-
-
-# 🏫  Education
-- Graduated with a **bachelor's degree** from Communication and Multimedia Design in 2022, **thesis graded with a 10 (A++)**.     
-- Received my **Propedeuse** of Communication and Multimedia Design in 2017   
-- Graduated with a **pre-university degree** at the Jan van Egmond College in 2016.   
-
-## 📋️  Certificates
-- In june 2016, I've obtained my **Cambridge Advanced English Certificate.**   
-
-
-<br>
-
-
-# 📈  Experience
-- 2022+ **Teaching assistant** at the **Amsterdam University of Applied Sciences** for tech-focused courses.   
-- 2021 aug-feb 2022: **Graduation project** at Active Collective, focused on developer efficiency enhancement.
-- 2021 feb-juli: **Internship Creative Developer** at Active Collective (Digital Design Agency).
-- 2020-2022: **Student assistent at the mostly tech-related courses** 'ISGA Project', 'Internetstandaarden' and 'Project Passie' in the first year of Communication and Multimedia Design, and 'Frontend Development' in the second year. Mostly personal assistance via video calls.
-- 2017-2019: **Teaching assistant at a high school**; one year in **Tech-Science** for Sophomores ('brugklassen' in Dutch) and one year of **Computer Science** for Seniors    (eindexamenklassen) at the  Da Vinci college (HAVO/VWO).   
-- 2017 (3 months): **Internship** at dnata in which I focused on **frontend** and developed an e-learning programme.   
-- 2016-now: Lots of other student assistant work, and pre-'16 side jobs in retail and restaurants but that's a bit irrelevant for now   
-
-## Volunteering
-- I've volunteered for De Duiventil society as a **bar team member** for about 2 years.   
-- I also occasionally **photographed** at events for IAM Core (see [Facebook](https://www.facebook.com/IAMCoreCMDA/photos/?tab=album&ref=) for in which albums I'm tagged as photographer, for more) and generally liked to help out at events.   
-
-### IAM Core
-IAM Core study society deserves a special place on this resume; I've started out as a member of the **'study trip committee'** in my first year, in which we organized a study trip to Lisbon. This was followed by a year in the **'game committee'** in which we organized gaming nights. After these two years, I did another year of participating and fulfilled the role of the **Treasurer of the association as board member**.   
