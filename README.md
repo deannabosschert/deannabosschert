@@ -19,7 +19,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
   <img align="center"  style="border:2px solid purple;" src="https://github-readme-stats.vercel.app/api?username=deannabosschert" alt="a visualisation of my github stats. It states that so far I've got 28 stars, made 1100 commits, 155 Pull Requests, 171 issues and have contributed to 21 projects." />
 </a>
 
-(contribution graph is a bit off as I worked mostly/only on projects in GitLab during my internship..)
+(contribution graph for 2021 is a bit off as I worked mostly/only on projects in GitLab during my internship..)
 
 ---
 
