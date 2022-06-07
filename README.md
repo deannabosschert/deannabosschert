@@ -203,9 +203,12 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Unsplash](https://img.shields.io/badge/Unsplash-%23e6bb94?style=for-the-badge&logo=unsplash&logoColor=white)
+![Flickr](https://img.shields.io/badge/Flickr-%23128fdc?style=for-the-badge&logo=flickr&logoColor=white)
 
-
-- You can always reach me at _deanna.bosschert@gmail.com_.
+- You can always reach me at deanna.bosschert@gmail.com.
 -  Sometimes I tweet what's on my mind on [Twitter](https://twitter.com/tech_kech), or just share useful things or stuff that I find important.  
 -  My [LinkedIn](https://nl.linkedin.com/in/deannabosschert) is a bit abandoned but I'm always up for new connections   
 -  My [Codepen](https://codepen.io/deannabosschert) is used for a mix of quick examples (usually for teaching students) and well.. less quick examples 
