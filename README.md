@@ -24,6 +24,12 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 ---
 
+         
+       
+<br>
+<!-- only using this bc markdown won't work with me.. -->
+         
+	 
 
 # Languages
 <!-- <table style="width:600px;
@@ -55,6 +61,14 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
     </tr>
 	</tbody>
 </table> -->
+
+
+
+
+
+
+
+
 ## HTML5
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![W3C](https://img.shields.io/badge/w3c-%23005A9C.svg?style=for-the-badge&logo=w3c&logoColor=white)
@@ -64,6 +78,9 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Focus on semantics    
 - Applying Progressive Enhancement principles      
 - Accessibility knowledge (a11y guidelines)   
+
+<p style="margin-bottom: 0; color: white">br</p>
+
 
 ## CSS3
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -123,6 +140,14 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 - Experience with WordPress back-end in PHP 
 
+
+
+<br>
+
+
+
+
+
 # Integrating experience
 ![RapidAPI](https://img.shields.io/badge/RapidAPI-%23007bff?style=for-the-badge&logo=rapidapi&logoColor=white)
 ![Storyblok](https://img.shields.io/badge/Storyblok-%2300b3b0?style=for-the-badge&logo=storyblok&logoColor=white)
@@ -140,6 +165,14 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - NPM packages    
 - Socket.io    
 - Familiar with Storybook.js      
+
+
+
+
+
+<br>
+
+
 
 # Development tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -185,6 +218,13 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Atom      
 - Brackets      
 (and Notepad++ a long, long time ago..)      
+
+
+
+<br>
+
+
+
 
 # Other knowledge + experience
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -236,6 +276,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 🖥️ Adobe Photoshop   
 🖥️ Adobe Premiere Pro
 
+
 ## Collaboration Tools
 ![Google Tools](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Tools](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -251,6 +292,8 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 👥 Trello   
 👥 Productive   
 
+
+<br>
 
 
 # 💬  Socials
@@ -270,6 +313,8 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 -  Free images on [Unsplash](https://unsplash.com/@deannabosschert)   
 -  Non-free images on [Flickr](https://www.flickr.com/people/169241155@N05/)   
   
+<br>
+
 
 # ⚙️  Skills
 - It's such an overused mention in resumes, but perfectionism has proven itself to be very much present. It's a blessing and a burden, but becoming less **perfectionistic** whilst still having an extremely well **eye for detail** for when it's necessary is what I aim for right now. Best of both worlds!   
@@ -278,6 +323,9 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - That being said; sometimes I'm kind of an open book and **not afraid to talk about the things I find hard or that I feel like is important**. It's the best and quickest way to get better at things, right?        
 - Also **very open to learning new things**. It may sound like a cliché but I actually like soaking up new information and gaining skills.     
 
+<br>
+
+
 # 🏫  Education
 - Graduated with a **bachelor's degree** from Communication and Multimedia Design in 2022, **thesis graded with a 10 (A++)**.     
 - Received my **Propedeuse** of Communication and Multimedia Design in 2017   
@@ -285,6 +333,10 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 ## 📋️  Certificates
 - In june 2016, I've obtained my **Cambridge Advanced English Certificate.**   
+
+
+<br>
+
 
 # 📈  Experience
 - 2022+ **Teaching assistant** at the **Amsterdam University of Applied Sciences** for tech-focused courses.   
