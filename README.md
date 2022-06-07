@@ -58,7 +58,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![W3C](https://img.shields.io/badge/w3c-%23005A9C.svg?style=for-the-badge&logo=w3c&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-
+![A11y](https://img.shields.io/badge/A11y-%23fb37ff?style=for-the-badge&logo=a11y&logoColor=white)
 
 - Focus on semantics    
 - Applying Progressive Enhancement principles      
@@ -122,7 +122,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 - Experience with WordPress back-end in PHP 
 
-#### Integrating experience
+## Integrating experience
 ![RapidAPI](https://img.shields.io/badge/RapidAPI-%23007bff?style=for-the-badge&logo=rapidapi&logoColor=white)
 ![Storyblok](https://img.shields.io/badge/Storyblok-%2300b3b0?style=for-the-badge&logo=storyblok&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
