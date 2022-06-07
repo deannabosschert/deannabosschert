@@ -3,10 +3,6 @@
 I'm Deanna, a creative developer from the Netherlands. Just graduated from Communication and Multimedia Design at the Amsterdam University of Applied Sciences as a webdeveloper and digital designer. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
 That's a lot of info that I'd normally just put on a print-like CV, but I thought I'd be nice to have this info collected in one place along with my projects' source code, and portfolio site. 
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=deannabosschert&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deannabosschert&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=deannabosschert&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 
 Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my recent work.  (**note: still a WIP**) 
 
@@ -145,17 +141,10 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Heroku deploy   
 
 ### Other knowledge + experience
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Micro:Bit](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white)
 ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ![Windows Laptop](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white)
 
@@ -169,6 +158,16 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 🦄 Design Ethics      
 🦄 Photography   
 
+#### Design Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+🖥️ Figma    
+🖥️ Miro    
+🖥️ Notion    
+
+
 #### Adobe
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -177,18 +176,23 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+🖥️ Adobe Illustrator   
+🖥️ Adobe Lightroom   
+🖥️ Adobe Lightroom Classic   
+🖥️ Adobe Photoshop   
+🖥️ Adobe Premiere Pro
 
 #### Collaboration Tools
-🦄 Collaboration tools like Trello, Miro, Productive, Slack, Teams, Drive etc.   
-
 ![Google Tools](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Tools](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
-👥 Slack   
 👥 Microsoft Teams   
 👥 Google Drive   
+👥 Slack   
 👥 Trello   
-👥 Miro   
 👥 Productive   
 
 
