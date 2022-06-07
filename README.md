@@ -162,10 +162,12 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Zeplin](https://aleen42.github.io/badges/src/zeplin.svg)
 
-🖥️ Figma    
-🖥️ Miro    
-🖥️ Notion    
+🎨 Figma    
+🎨 Miro    
+🎨 Notion    
+🎨 Zeplin    
 
 
 #### Adobe
