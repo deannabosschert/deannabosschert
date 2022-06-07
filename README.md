@@ -1,5 +1,5 @@
 ### Hi there, and welcome to my resume 🙋🏼‍♀️ 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=9E9EFF&multiline=true&height=400&lines=%E2%9C%A8+Creative+Developer+%E2%9C%A8;%E2%9E%9D++Digital+Designer;%E2%9E%9D+Front-end+dev;%E2%9E%9D+Back-end+dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1000&color=9E9EFF&multiline=true&height=125&lines=%E2%9C%A8+Creative+Developer+%E2%9C%A8;%E2%9E%9D++Digital+Designer;%E2%9E%9D+Front-end+dev;%E2%9E%9D+Back-end+dev)](https://git.io/typing-svg)
 
 I'm Deanna, a creative developer from the Netherlands. Just graduated from Communication and Multimedia Design at the Amsterdam University of Applied Sciences as a webdeveloper and digital designer. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
 That's a lot of info that I'd normally just put on a print-like CV, but I thought I'd be nice to have this info collected in one place along with my projects' source code, and portfolio site. 
