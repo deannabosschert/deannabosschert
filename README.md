@@ -79,8 +79,6 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Applying Progressive Enhancement principles      
 - Accessibility knowledge (a11y guidelines)   
 
-<p style="margin-bottom: 0; color: white">br</p>
-
 
 ## CSS3
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
