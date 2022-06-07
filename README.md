@@ -1,9 +1,9 @@
 ### Hi there, and welcome to my resume 🙋🏼‍♀️ 
 
-I'm Deanna, a front-end webdeveloper student from the Netherlands. Currently in my graduation phase of Communication and Multimedia Design at the Amsterdam University of Applied Sciences and just finished with my Creative Developer-intership at Active Collective this semester. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
+I'm Deanna, a creative developer from the Netherlands. Just graduated from Communication and Multimedia Design at the Amsterdam University of Applied Sciences as a webdeveloper as well as a digital designer. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
 That's a lot of info that I'd normally just put on a print-like CV, but I thought I'd be nice to have this info collected in one place along with my projects' source code, and portfolio site. 
 
-Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my recent work.  (**note: not up-to-date** ~~and quickly hacked together so not a very good representation of how I'd like to professionally showcase my work~~ ) 
+Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my recent work.  (**note: still a WIP **) 
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats/">
   <img align="center" style="border:2px solid purple;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannabosschert" alt="a visualisation of my most used programming languages. Js comes first, HTML is a close second, SCSS is third, Vue on fourth place and CSS takes fifth place." />
@@ -74,14 +74,16 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Server-side scripting    
 - Client-side scripting    
 - Data manipulation + rendering     
-- Functional programming principles   
+- Functional programming principles 
+   
 ---
-
+- D3.js  
+- Chart.js   
 - Static site generating (Eleventy)    
 - Using template languages like EJS, Liquid, Handlebars or Nunjucks    
 
 ### PHP
-- Experience with WordPress back-end in PHP
+- Experience with WordPress back-end in PHP 
 
 #### Integrating experience
 - REST API's    
@@ -117,7 +119,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ## 💬  Socials
 -  Sometimes I tweet what's on my mind on [Twitter](https://twitter.com/tech_kech), or just share useful things or stuff that I find important.  
 -  My [LinkedIn](https://nl.linkedin.com/in/deannabosschert) is a bit abandoned but I'm always up for new connections   
--  My [Codepen](https://codepen.io/deannabosschert) is used for a mix of quick examples and well.. less quick examples 
+-  My [Codepen](https://codepen.io/deannabosschert) is used for a mix of quick examples (usually for teaching students) and well.. less quick examples 
 -  I've written some articles as part of an assignment and posted on [Medium](https://medium.com/@deanna.bosschert)   
 -  Free images on [Unsplash](https://unsplash.com/@deannabosschert)   
 -  Non-free images on [Flickr](https://www.flickr.com/people/169241155@N05/)   
@@ -139,9 +141,10 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - In june 2016, I've obtained my **Cambridge Advanced English Certificate.**   
 
 ## 📈  Experience
+- 2022+ **Teaching assistant** at the **Amsterdam University of Applied Sciences** for tech-focused courses.   
 - 2021 aug-feb 2022: **Graduation project** at Active Collective, focused on developer efficiency enhancement.
 - 2021 feb-juli: **Internship Creative Developer** at Active Collective (Digital Design Agency).
-- 2020-now: **Student assistent at the mostly tech-related courses** 'ISGA Project', 'Internetstandaarden' and 'Project Passie' in the first year of Communication and Multimedia Design, and 'Frontend Development' in the second year. Mostly personal assistance via video calls.
+- 2020-2022: **Student assistent at the mostly tech-related courses** 'ISGA Project', 'Internetstandaarden' and 'Project Passie' in the first year of Communication and Multimedia Design, and 'Frontend Development' in the second year. Mostly personal assistance via video calls.
 - 2017-2019: **Teaching assistant at a high school**; one year in **Tech-Science** for Sophomores ('brugklassen' in Dutch) and one year of **Computer Science** for Seniors    (eindexamenklassen) at the  Da Vinci college (HAVO/VWO).   
 - 2017 (3 months): **Internship** at dnata in which I focused on **frontend** and developed an e-learning programme.   
 - 2016-now: Lots of other student assistant work, and pre-'16 side jobs in retail and restaurants but that's a bit irrelevant for now   
