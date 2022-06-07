@@ -13,14 +13,13 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center"  style="border:2px solid purple;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannabosschert&layout=compact" alt="a visualisation of my most used programming languages. Js comes first, HTML is a close second, SCSS is third, Vue on fourth place and CSS takes fifth place." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannabosschert&layout=compact&langs_count=10&title_color=9E9EFF&border_color=9E9EFF&text_color=433a4bff&hide=procfile" alt="a visualisation of my most used programming languages. Js comes first, HTML is a close second, SCSS is third, Vue on fourth place and CSS takes fifth place." />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center"  style="border:2px solid purple;" src="https://github-readme-stats.vercel.app/api?username=deannabosschert" alt="a visualisation of my github stats. It states that so far I've got 28 stars, made 1100 commits, 155 Pull Requests, 171 issues and have contributed to 21 projects." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deannabosschert&title_color=9E9EFF&border_color=9E9EFF&text_color=433a4bff&include_all_commits=true&count_private=true" alt="a visualisation of my github stats. It states that so far I've got 28 stars, made 1100 commits, 155 Pull Requests, 171 issues and have contributed to 21 projects." />
 </a>
 
-(contribution graph for 2021 is a bit off as I worked mostly/only on projects in GitLab during my internship..)
 
 ---
 
