@@ -145,24 +145,45 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-23BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
+
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-
 - Git    
 - GitHub    
-- CLI    
+- GitLab     
+- Codepen     
+- FTP             
+- CLI in general      
+
+
+----
+
 - Collaborating in teams using GitHub (e.g. Project Boards, Issues, Pull Requests, code reviews, branches etc.)    
-- Use of coding guidelines    
-- Netlify deploy     
-- Heroku deploy   
-- Code editors Visual Studio Code, Atom and Brackets (and Notepad++ a long, long time ago..)
-- Usage of development documentation     
+- Use of coding guidelines        
+- Development resources           
+
+
+#### Deployment
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
+
+
+- Netlify     
+- Heroku    
+- GitHub Pages
+
+#### Code Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+
+- Visual Studio Code      
+- Atom      
+- Brackets      
+(and Notepad++ a long, long time ago..)      
 
 ### Other knowledge + experience
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -181,7 +202,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 🦄 Datavisualization      
 🦄 Research  
 🦄 Design Ethics     
-🦄 Performance enhancements (following Lighthouse standards) 
+🦄 Performance enhancements (following Lighthouse standards)     
 🦄 Writing documentation  (Gitbook, ReadMe, Wiki etc.)    
 🦄 Markdown  
 
@@ -189,7 +210,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Zeplin]([https://aleen42.github.io/badges/src/zeplin.svg](https://img.shields.io/badge/Zeplin-%23fecf33?style=for-the-badge&logo=zeplin&logoColor=white))
+![Zeplin](https://img.shields.io/badge/Zeplin-%23fecf33?style=for-the-badge&logo=zeplin&logoColor=white)
 ![Procreate](https://img.shields.io/badge/Procreate-%23da1852?style=for-the-badge&logo=procreate&logoColor=white)
 
 🎨 Figma    
@@ -204,12 +225,12 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+<!--![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) already included with Lightroom logo -->
 
 🖥️ Adobe Illustrator   
-🖥️ Adobe Lightroom   
+🖥️ Adobe Lightroom CC   
 🖥️ Adobe Lightroom Classic   
 🖥️ Adobe Photoshop   
 🖥️ Adobe Premiere Pro
