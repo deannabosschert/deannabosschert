@@ -82,7 +82,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Eleventy](https://img.shields.io/badge/Eleventy-black?style=for-the-badge&logo=eleventy&badgeColor=010101)
-![Handlebars](https://img.shields.io/badge/Handlebars-black?style=for-the-badge&logo=handlebars&badgeColor=010101)
+![Handlebars](https://img.shields.io/badge/Handlebars-black?style=for-the-badge&logo=handlebars.js&badgeColor=010101)
 
 
 ![D3.js](https://img.shields.io/badge/d3.js-23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
@@ -145,7 +145,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-23BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-%23BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
@@ -244,8 +244,8 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ![Productive](https://img.shields.io/badge/Productive-%235D2BFF?style=for-the-badge&logo=productive&logoColor=white)
 
 👥 Google Drive tools   
-👥 Microsoft Office tools   
-👥 Microsoft Teams
+👥 Microsoft Office tools     
+👥 Microsoft Teams    
 👥 Slack   
 👥 Trello   
 👥 Productive   
