@@ -56,6 +56,9 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 </table> -->
 ### HTML5
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![W3C](https://img.shields.io/badge/w3c-%23005A9C.svg?style=for-the-badge&logo=w3c&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+
 
 - Focus on semantics    
 - Applying Progressive Enhancement principles      
@@ -64,6 +67,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ### CSS3
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-black.svg?style=for-the-badge&logo=BEM&logoColor=white)
 
 - SCCS      
 - Comfortable working with BEM or SMACCS methodology    
@@ -74,10 +78,18 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Eleventy](https://img.shields.io/badge/Eleventy-black?style=for-the-badge&logo=eleventy&badgeColor=010101)
+![Handlebars](https://img.shields.io/badge/Handlebars-black?style=for-the-badge&logo=handlebars&badgeColor=010101)
+
+
+![D3.js](https://img.shields.io/badge/d3.js-23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+
 
 
 - Node.js    
@@ -86,16 +98,23 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 ----
 
+- Express.js   
+- Static site generating (Eleventy) 
+- Using template languages like EJS, Liquid, Handlebars or Nunjucks    
+
+
+---
+- D3.js  
+- Chart.js 
+- Socket.io
+
+----
+
 - Server-side scripting    
 - Client-side scripting    
 - Data manipulation + rendering     
 - Functional programming principles 
-   
----
-- D3.js  
-- Chart.js   
-- Static site generating (Eleventy)    
-- Using template languages like EJS, Liquid, Handlebars or Nunjucks    
+
 
 ### PHP
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -104,24 +123,27 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Experience with WordPress back-end in PHP 
 
 #### Integrating experience
+![RapidAPI](https://img.shields.io/badge/RapidAPI-%23007bff?style=for-the-badge&logo=rapidapi&logoColor=white)
+![Storyblok](https://img.shields.io/badge/Storyblok-%2300b3b0?style=for-the-badge&logo=storyblok&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-%2300b3b0?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 - REST API's    
-- Headless CMS (Storyblok)  
+- Headless CMS (Storyblok, NetlifyCMS)  
 - WordPress (including custom themes, plugins etc)
 - Databases (MongoDB, SQL)
 - NPM packages    
-- Sockets     
+- Socket.io    
 - Familiar with Storybook.js      
 
 ### Development tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -139,35 +161,43 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Use of coding guidelines    
 - Netlify deploy     
 - Heroku deploy   
+- Code editors Visual Studio Code, Atom and Brackets (and Notepad++ a long, long time ago..)
+- Usage of development documentation     
 
 ### Other knowledge + experience
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GitBook](https://img.shields.io/badge/Gitbook-233884FF?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Micro:Bit](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white)
 ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
 ![Windows Laptop](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white)
+![MacBook Pro](https://img.shields.io/badge/MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white)
+![iPad Pro](https://img.shields.io/badge/iPad_Pro-999999?style=for-the-badge&logo=apple&logoColor=white)
 
+🦄 Teaching       
 🦄 User-centered Design and concepting   
-🦄 Performance enhancements (following Lighthouse standards)  
-🦄 Markdown  
-🦄 Writing documentation  
+🦄 Photography   
 🦄 Web Design  
 🦄 Datavisualization      
 🦄 Research  
-🦄 Design Ethics      
-🦄 Photography   
+🦄 Design Ethics     
+🦄 Performance enhancements (following Lighthouse standards) 
+🦄 Writing documentation  (Gitbook, ReadMe, Wiki etc.)    
+🦄 Markdown  
 
 #### Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Zeplin](https://aleen42.github.io/badges/src/zeplin.svg)
+![Zeplin]([https://aleen42.github.io/badges/src/zeplin.svg](https://img.shields.io/badge/Zeplin-%23fecf33?style=for-the-badge&logo=zeplin&logoColor=white))
+![Procreate](https://img.shields.io/badge/Procreate-%23da1852?style=for-the-badge&logo=procreate&logoColor=white)
 
 🎨 Figma    
 🎨 Miro    
 🎨 Notion    
 🎨 Zeplin    
+🎨 Procreate        
+
 
 
 #### Adobe
@@ -187,12 +217,14 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 #### Collaboration Tools
 ![Google Tools](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Tools](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Productive](https://img.shields.io/badge/Productive-%235D2BFF?style=for-the-badge&logo=productive&logoColor=white)
 
-👥 Microsoft Teams   
-👥 Google Drive   
+👥 Google Drive tools   
+👥 Microsoft Office tools   
+👥 Microsoft Teams
 👥 Slack   
 👥 Trello   
 👥 Productive   
