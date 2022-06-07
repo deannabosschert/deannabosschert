@@ -25,7 +25,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ---
 
 
-## Languages
+# Languages
 <!-- <table style="width:600px;
 		height:100px;
 		border:0px solid #C0C0C0;
@@ -55,7 +55,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
     </tr>
 	</tbody>
 </table> -->
-### HTML5
+## HTML5
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![W3C](https://img.shields.io/badge/w3c-%23005A9C.svg?style=for-the-badge&logo=w3c&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
@@ -65,7 +65,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Applying Progressive Enhancement principles      
 - Accessibility knowledge (a11y guidelines)   
 
-### CSS3
+## CSS3
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-black.svg?style=for-the-badge&logo=BEM&logoColor=white)
@@ -75,7 +75,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Comfortable working with InuitCSS system    
 
 
-### Javascript (ES6)
+## Javascript (ES6)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -117,13 +117,13 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Functional programming principles 
 
 
-### PHP
+## PHP
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 - Experience with WordPress back-end in PHP 
 
-## Integrating experience
+# Integrating experience
 ![RapidAPI](https://img.shields.io/badge/RapidAPI-%23007bff?style=for-the-badge&logo=rapidapi&logoColor=white)
 ![Storyblok](https://img.shields.io/badge/Storyblok-%2300b3b0?style=for-the-badge&logo=storyblok&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
@@ -141,7 +141,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Socket.io    
 - Familiar with Storybook.js      
 
-### Development tools
+# Development tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -166,7 +166,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Development resources           
 
 
-#### Deployment
+## Deployment
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -177,7 +177,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Heroku    
 - GitHub Pages
 
-#### Code Editors
+### Code Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 
@@ -186,7 +186,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - Brackets      
 (and Notepad++ a long, long time ago..)      
 
-### Other knowledge + experience
+# Other knowledge + experience
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitBook](https://img.shields.io/badge/Gitbook-233884FF?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -207,7 +207,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 🦄 Writing documentation  (Gitbook, ReadMe, Wiki etc.)    
 🦄 Markdown  
 
-#### Design Tools
+## Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -222,7 +222,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 
 
-#### Adobe
+### Adobe
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -236,7 +236,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 🖥️ Adobe Photoshop   
 🖥️ Adobe Premiere Pro
 
-#### Collaboration Tools
+## Collaboration Tools
 ![Google Tools](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Tools](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
@@ -253,7 +253,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 
 
-## 💬  Socials
+# 💬  Socials
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -271,22 +271,22 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 -  Non-free images on [Flickr](https://www.flickr.com/people/169241155@N05/)   
   
 
-## ⚙️  Skills
+# ⚙️  Skills
 - It's such an overused mention in resumes, but perfectionism has proven itself to be very much present. It's a blessing and a burden, but becoming less **perfectionistic** whilst still having an extremely well **eye for detail** for when it's necessary is what I aim for right now. Best of both worlds!   
 - I'm quite good at **writing in Dutch**; I rarely make spelling mistakes or grammar errors.   
 - I'm always very **open for feedback**; I've learned so much this past year and it's mostly because I've just taken in so many advices from others   
 - That being said; sometimes I'm kind of an open book and **not afraid to talk about the things I find hard or that I feel like is important**. It's the best and quickest way to get better at things, right?        
 - Also **very open to learning new things**. It may sound like a cliché but I actually like soaking up new information and gaining skills.     
 
-## 🏫  Education
+# 🏫  Education
 - Graduated with a **bachelor's degree** from Communication and Multimedia Design in 2022, **thesis graded with a 10 (A++)**.     
 - Received my **Propedeuse** of Communication and Multimedia Design in 2017   
 - Graduated with a **pre-university degree** at the Jan van Egmond College in 2016.   
 
-### 📋️  Certificates
+## 📋️  Certificates
 - In june 2016, I've obtained my **Cambridge Advanced English Certificate.**   
 
-## 📈  Experience
+# 📈  Experience
 - 2022+ **Teaching assistant** at the **Amsterdam University of Applied Sciences** for tech-focused courses.   
 - 2021 aug-feb 2022: **Graduation project** at Active Collective, focused on developer efficiency enhancement.
 - 2021 feb-juli: **Internship Creative Developer** at Active Collective (Digital Design Agency).
@@ -295,9 +295,9 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - 2017 (3 months): **Internship** at dnata in which I focused on **frontend** and developed an e-learning programme.   
 - 2016-now: Lots of other student assistant work, and pre-'16 side jobs in retail and restaurants but that's a bit irrelevant for now   
 
-### Volunteering
+## Volunteering
 - I've volunteered for De Duiventil society as a **bar team member** for about 2 years.   
 - I also occasionally **photographed** at events for IAM Core (see [Facebook](https://www.facebook.com/IAMCoreCMDA/photos/?tab=album&ref=) for in which albums I'm tagged as photographer, for more) and generally liked to help out at events.   
 
-#### IAM Core
+### IAM Core
 IAM Core study society deserves a special place on this resume; I've started out as a member of the **'study trip committee'** in my first year, in which we organized a study trip to Lisbon. This was followed by a year in the **'game committee'** in which we organized gaming nights. After these two years, I did another year of participating and fulfilled the role of the **Treasurer of the association as board member**.   
