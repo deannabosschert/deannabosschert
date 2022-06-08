@@ -35,7 +35,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - [📈  Experience in tech](#--experience-in-tech)
   * [Volunteering](#volunteering)
     + [IAM Core](#iam-core)
-- [⚙️  Skills](#--skills)
+- [⚙️  Skills](#%EF%B8%8F--skills)
 - [Languages](#languages)
   * [HTML5](#html5)
   * [CSS3](#css3)
