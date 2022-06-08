@@ -31,7 +31,7 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 ## Table of Contents
 
 - [🏫  Education](#--education)
-  * [📋️  Certificates](#---certificates)
+  * [📋️  Certificates](#%EF%B8%8F--certificates)
 - [📈  Experience in tech](#--experience-in-tech)
   * [Volunteering](#volunteering)
     + [IAM Core](#iam-core)
@@ -39,17 +39,17 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 - [Languages](#languages)
   * [HTML5](#html5)
   * [CSS3](#css3)
-  * [Javascript (ES6)](#javascript--es6-)
+  * [Javascript (ES6)](#javascript-es6)
   * [PHP](#php)
 - [Integrating experience](#integrating-experience)
 - [Development tools](#development-tools)
   * [Deployment](#deployment)
     + [Code Editors](#code-editors)
-- [Other knowledge + experience](#other-knowledge---experience)
+- [Other knowledge + experience](#other-knowledge--experience)
   * [Design Tools](#design-tools)
     + [Adobe](#adobe)
   * [Collaboration Tools](#collaboration-tools)
-- [💬  Socials](#----socials)
+- [💬  Socials](#--socials)
 
 
 
