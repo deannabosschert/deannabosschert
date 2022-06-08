@@ -43,8 +43,8 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
   * [PHP](#php)
 - [Integrating experience](#integrating-experience)
 - [Development tools](#development-tools)
+  * [Code Editors](#code-editors)
   * [Deployment](#deployment)
-    + [Code Editors](#code-editors)
 - [Other knowledge + experience](#other-knowledge--experience)
   * [Design Tools](#design-tools)
     + [Adobe](#adobe)
@@ -272,6 +272,16 @@ IAM Core study society deserves a special place on this resume;
 - Development resources           
 
 
+## Code Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+
+- Visual Studio Code      
+- Atom      
+- Brackets      
+(and Notepad++ a long, long time ago..)      
+
+
 ## Deployment
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
@@ -283,14 +293,6 @@ IAM Core study society deserves a special place on this resume;
 - Heroku    
 - GitHub Pages
 
-### Code Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-
-- Visual Studio Code      
-- Atom      
-- Brackets      
-(and Notepad++ a long, long time ago..)      
 
 
 
