@@ -1,7 +1,7 @@
 ### Hi there, and welcome to my resume 🙋🏼‍♀️ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1000&color=9E9EFF&multiline=true&height=125&lines=%E2%9C%A8+Creative+Developer+%E2%9C%A8;%E2%9E%9D++Digital+Designer;%E2%9E%9D+Front-end+dev;%E2%9E%9D+Back-end+dev)](https://git.io/typing-svg)
 
-I'm Deanna, a creative developer from the Netherlands. Just graduated from Communication and Multimedia Design at the Amsterdam University of Applied Sciences as a webdeveloper and digital designer. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
+I'm Deanna, a creative developer from the Netherlands, working with great joy at Software Bastards. Bachelor's degree from Communication and Multimedia Design at the Amsterdam University of Applied Sciences as a webdeveloper and digital designer. Passionate about lots of things, especially tech/design-related. Below are a few interesting stats about my time on GitHub. I've also written out my experience, knowledge, skills and some personal insights.
 That's a lot of info that I'd normally just put on a print-like CV, but I thought I'd be nice to have this info collected in one place along with my projects' source code, and portfolio site. 
 
 
@@ -71,13 +71,18 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 
 # 📈  Experience in tech
-- 2022+ **Teaching assistant** at the **Amsterdam University of Applied Sciences** for tech-focused courses.   
+- 2022+ Software Engineer at **Software Bastards**
+- 2022 sept-apr 2023 web developer at **Nationale Postcode Loterij (Goede Doelen Loterijen)**, team Online Campaign Platform.
+- 2021-2022+ **Teaching assistant** at the **Amsterdam University of Applied Sciences** for tech-focused courses.   
 - 2021 aug-feb 2022: **Graduation project** at Active Collective, focused on developer efficiency enhancement.
 - 2021 feb-juli: **Internship Creative Developer** at Active Collective (Digital Design Agency).
 - 2020-2022: **Student assistent at the mostly tech-related courses** 'ISGA Project', 'Internetstandaarden', 'Project Passie' and an 'introduction course HTML/CSS' in the first year of Communication and Multimedia Design, and 'Frontend Development' + 'Project Tech' in the second year. Mostly personal assistance via video calls and making lots of example code for the students.    
 - 2017-2019: **Teaching assistant at a high school**; one year in **Tech-Science** for Sophomores ('brugklassen' in Dutch) and one year of **Computer Science** for Seniors    (eindexamenklassen) at the  Da Vinci college (HAVO/VWO).   
 - 2017 (3 months): **Internship** at dnata in which I focused on **frontend** and developed an e-learning programme.   
 - 2016-2022: Lots of other student assistant work, and pre-'16 side jobs in retail and restaurants but that's a bit irrelevant for now   
+
+### Acknowledgements
+- Part of the **T500 list** of The Next Web for the third year in a row now
 
 ## Volunteering
 - I've volunteered for De Duiventil society as a **bar team member** for about 2 years.   
@@ -116,6 +121,7 @@ IAM Core study society deserves a special place on this resume;
       <th style="background:#ece0ec;"><b>HTML</b></th>
       <th style="background:#ece0ec;"><b>CSS</b></th>
       <th style="background:#ece0ec;"><b>JavaScript (ES6)</b></th>
+      <th style="background:#ece0ec;"><b>TypeScript</b></th>
     </tr>
   </thead>
   <tbody>
@@ -127,7 +133,7 @@ IAM Core study society deserves a special place on this resume;
       <tr>
       <td style="background:#ece0ec;">Accessibility</td>
       <td style="background:#ece0ec;"></td>
-      <td style="background:#ece0ec;">Vue</td>
+      <td style="background:#ece0ec;">Vue.js</td>
     </tr>
        <tr>
       <td style="background:#ece0ec;">Progressive Enhancement</td>
