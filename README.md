@@ -72,10 +72,10 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 # 📈  Experience in tech
 - 2022+ Software Engineer at **Software Bastards**
-- 2023 dec-jun 2024 software engineer at **Arbor**, team R&D.
+- 2024 jun - now software engineer at **Arbor**, team R&D.
 - 2023 dec-jun 2024 full-stack developer at **Sector Orange**, working on TSVJ (Transparante Schadevrije Jaren) project.
 - 2022 sept-apr 2023 web developer at **Nationale Postcode Loterij (Goede Doelen Loterijen)**, team Online Campaign Platform.
-- 2021-2022+ **Teaching assistant** at the **Amsterdam University of Applied Sciences** for tech-focused courses.   
+- 2021-2023 **Teaching assistant** at the **Amsterdam University of Applied Sciences** for tech-focused courses.   
 - 2021 aug-feb 2022: **Graduation project** at Active Collective, focused on developer efficiency enhancement.
 - 2021 feb-juli: **Internship Creative Developer** at Active Collective (Digital Design Agency).
 - 2020-2022: **Student assistent at the mostly tech-related courses** 'ISGA Project', 'Internetstandaarden', 'Project Passie' and an 'introduction course HTML/CSS' in the first year of Communication and Multimedia Design, and 'Frontend Development' + 'Project Tech' in the second year. Mostly personal assistance via video calls and making lots of example code for the students.    
