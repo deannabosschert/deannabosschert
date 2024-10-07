@@ -72,6 +72,8 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
 
 # 📈  Experience in tech
 - 2022+ Software Engineer at **Software Bastards**
+- 2023 dec-jun 2024 software engineer at **Arbor**, team R&D.
+- 2023 dec-jun 2024 full-stack developer at **Sector Orange**, working on TSVJ (Transparante Schadevrije Jaren) project.
 - 2022 sept-apr 2023 web developer at **Nationale Postcode Loterij (Goede Doelen Loterijen)**, team Online Campaign Platform.
 - 2021-2022+ **Teaching assistant** at the **Amsterdam University of Applied Sciences** for tech-focused courses.   
 - 2021 aug-feb 2022: **Graduation project** at Active Collective, focused on developer efficiency enhancement.
@@ -168,7 +170,10 @@ IAM Core study society deserves a special place on this resume;
 
 - SCCS      
 - Comfortable working with BEM or SMACCS methodology    
-- Comfortable working with InuitCSS system    
+- Comfortable working with InuitCSS system
+- Comfortable working with MUI components
+- Comfortable working with PrimeReact    
+
 
 
 ## Javascript (ES6)
@@ -176,7 +181,10 @@ IAM Core study society deserves a special place on this resume;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![React.js](https://img.shields.io/badge/react-%2335495e.svg?style=for-the-badge&logo=reactdotjs&logoColor=%234FC08D)
+![Next.js](https://img.shields.io/badge/Next-002E3B?style=for-the-badge&logo=nextdotjs&logoColor=#00DC82)
 
+![Nest.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Eleventy](https://img.shields.io/badge/Eleventy-black?style=for-the-badge&logo=eleventy&badgeColor=010101)
 ![Handlebars](https://img.shields.io/badge/Handlebars-black?style=for-the-badge&logo=handlebars.js&badgeColor=010101)
@@ -189,7 +197,10 @@ IAM Core study society deserves a special place on this resume;
 
 
 
-- Node.js    
+- Node.js
+- Nest.js
+- React
+- Next.js
 - Vue.js   
 - Nuxt.js 
 
@@ -273,7 +284,7 @@ IAM Core study society deserves a special place on this resume;
 
 ----
 
-- Collaborating in teams using GitHub (e.g. Project Boards, Issues, Pull Requests, code reviews, branches etc.)    
+- Collaborating in teams using GitHub or GitLab (e.g. Project Boards, Issues, Pull Requests, code reviews, branches etc.)    
 - Use of coding guidelines        
 - Development resources           
 
@@ -282,7 +293,8 @@ IAM Core study society deserves a special place on this resume;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 
-- Visual Studio Code      
+- Visual Studio Code
+- Cursor
 - Atom      
 - Brackets      
 (and Notepad++ a long, long time ago..)      
@@ -294,7 +306,7 @@ IAM Core study society deserves a special place on this resume;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
 
-
+- Azure DevOps
 - Netlify     
 - Heroku    
 - GitHub Pages
