@@ -16,9 +16,9 @@ Visit [deannabosschert.nl](https://www.deannabosschert.nl/) for a showcase of my
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannabosschert&layout=compact&langs_count=10&title_color=9E9EFF&border_color=9E9EFF&text_color=433a4bff&hide=procfile" alt="a visualisation of my most used programming languages. Js comes first, HTML is a close second, SCSS is third, Vue on fourth place and CSS takes fifth place." />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deannabosschert&title_color=9E9EFF&border_color=9E9EFF&text_color=433a4bff&include_all_commits=true&count_private=true" alt="a visualisation of my github stats. It states that so far I've got 28 stars, made 1100 commits, 155 Pull Requests, 171 issues and have contributed to 21 projects." />
-</a>
+</a> -->
 
 
 ---
